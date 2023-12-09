@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
   <img src="ghost-standing.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h1><b>Ghost Runner</b></h1>
+  <h1><b>Ghost Runner Game</b></h1>
 
 </div>
 
